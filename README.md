@@ -14,7 +14,8 @@
 This project transforms raw sales data into clean, structured, and reliable information. It involves data cleaning to handle missing values, duplicates, and inconsistencies, followed by analysis to uncover key insights such as sales trends, top products, regional performance, and customer behavior.
 
 ### Dashboard
-<img width="1736" height="742" alt="I will turn your messy Excel data into a professional KPI dashboard" src="https://github.com/user-attachments/assets/0d5a69f8-626d-4f93-97e6-1bf886866209" />
+<img width="1736" height="742" alt="I will turn your messy Excel data into a professional KPI dashboard" src="https://github.com/user-attachments/assets/3252a3e2-08f5-47ac-89ed-0df375ae4213" />
+
 
 ### Tool
   Excel - Data Cleaning, Analysis, and Visualization Report.
