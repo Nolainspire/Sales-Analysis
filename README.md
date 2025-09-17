@@ -32,10 +32,16 @@ To ensure accuracy and reliability of insights, the dataset undergoes thorough c
 ### 📊 Sales & Customer Insights
 
 ### Key Metrics 
-  Total Orders - 2,000 orders was recorded.
-  Total Quantity Sold - 101,955 units was sold across all products.
-  Avg. Unit Price - Average unit price of products at $2.6K. 
-  Total Sales - Total sales of $259.7M was generated across all products.
+  - Total Orders - 2,000 orders was recorded.
+
+  
+  - Total Quantity Sold - 101,955 units was sold across all products.
+
+  
+  - Avg. Unit Price - Average unit price of products at $2.6K. 
+
+  
+  - Total Sales - Total sales of $259.7M was generated across all products.
 
 ### Top 5 Products by Sales Volume
   Energy Drink (6.9K units) is the top-selling product.
